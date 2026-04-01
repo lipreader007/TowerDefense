@@ -200,4 +200,4 @@ All of the following should be configured in `TowerDefense.unity`:
 
 ---
 
-*Total time spent: [fill in honestly before submitting]*
+*Total time spent: 2 hours 15 minutes*
