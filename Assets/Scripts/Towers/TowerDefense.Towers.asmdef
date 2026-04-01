@@ -1,0 +1,17 @@
+{
+    "name": "TowerDefense.Towers",
+    "rootNamespace": "TowerDefense.Towers",
+    "references": [
+        "TowerDefense.Data",
+        "TowerDefense.Interfaces"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
