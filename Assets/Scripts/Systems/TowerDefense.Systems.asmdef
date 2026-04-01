@@ -4,7 +4,8 @@
     "references": [
         "TowerDefense.Data",
         "TowerDefense.Interfaces",
-        "TowerDefense.Entities"
+        "TowerDefense.Entities",
+        "TowerDefense.Towers"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
