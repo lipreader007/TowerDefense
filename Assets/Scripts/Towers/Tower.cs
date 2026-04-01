@@ -3,9 +3,8 @@ using UnityEngine;
 using TowerDefense.Data;
 using TowerDefense.Entities;
 using TowerDefense.Interfaces;
-using TowerDefense.Towers.Strategies;
 
-namespace TowerDefense.Entities
+namespace TowerDefense.Towers
 {
     /// <summary>
     /// Core tower component. Owns:
