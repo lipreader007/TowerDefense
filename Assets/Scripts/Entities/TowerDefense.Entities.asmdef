@@ -3,8 +3,7 @@
     "rootNamespace": "TowerDefense.Entities",
     "references": [
         "TowerDefense.Data",
-        "TowerDefense.Interfaces",
-        "TowerDefense.Towers"
+        "TowerDefense.Interfaces"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
